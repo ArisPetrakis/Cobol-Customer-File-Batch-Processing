@@ -1,0 +1,452 @@
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000001  NAME: ALPHA COMPANY         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260105  CH           123.45  SUBSCRIPTION
+20260110  CR   -       500.00  BIG CREDIT
+TOTAL CHARGES:         123.45
+TOTAL CREDITS:         500.00
+NET DUE      : -       376.55
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000002  NAME: BETA STORES           PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260108  CH            30.00  USAGE
+TOTAL CHARGES:          30.00
+TOTAL CREDITS:           0.00
+NET DUE      :          30.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000003  NAME: GAMMA SERVICES        PLAN: IPL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20261301  CH            20.00  BAD DATE
+TOTAL CHARGES:          20.00
+TOTAL CREDITS:           0.00
+NET DUE      :          20.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000004  NAME: DELTA RETAIL          PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260101  CH            50.00  SERVICE FEE
+TOTAL CHARGES:          50.00
+TOTAL CREDITS:           0.00
+NET DUE      :          50.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000005  NAME: EPSILON TECH          PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260102  CR   -       200.00  PROMO CREDIT
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         200.00
+NET DUE      : -       200.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000006  NAME: ZETA FINANCIAL        PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260103  CH            85.00  MONTHLY FEE
+TOTAL CHARGES:          85.00
+TOTAL CREDITS:           0.00
+NET DUE      :          85.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000007  NAME: ETA MANUFACTURING     PLAN: IPL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260104  FE            15.00  LATE CHARGE
+TOTAL CHARGES:          15.00
+TOTAL CREDITS:           0.00
+NET DUE      :          15.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000008  NAME: THETA SOLUTIONS       PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260105  CH            32.00  VOIP USAGE
+TOTAL CHARGES:          32.00
+TOTAL CREDITS:           0.00
+NET DUE      :          32.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000009  NAME: IOTA DISTRIBUTION     PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260106  CR   -       150.00  ADJUSTMENT
+20260109  CH            10.00  NO CUSTOMER
+TOTAL CHARGES:          10.00
+TOTAL CREDITS:         150.00
+NET DUE      : -       140.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000010  NAME: KAPPA CONSULTING      PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260107  CH            67.00  INTERNET FEE
+TOTAL CHARGES:          67.00
+TOTAL CREDITS:           0.00
+NET DUE      :          67.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000011  NAME: LAMBDA ENERGY         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260108  CR   -       100.00  REFUND
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         100.00
+NET DUE      : -       100.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000012  NAME: MU HEALTHCARE         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260109  CH            45.00  DATA OVERAGE
+TOTAL CHARGES:          45.00
+TOTAL CREDITS:           0.00
+NET DUE      :          45.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000013  NAME: NU TRANSPORT          PLAN: IPL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260110  FE            20.00  NSF CHARGE
+TOTAL CHARGES:          20.00
+TOTAL CREDITS:           0.00
+NET DUE      :          20.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000014  NAME: XI HOSPITALITY        PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260111  CH            92.00  PHONE CALLS
+TOTAL CHARGES:          92.00
+TOTAL CREDITS:           0.00
+NET DUE      :          92.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000015  NAME: OMICRON MEDIA         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260112  CR   -       250.00  CREDIT MEMO
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         250.00
+NET DUE      : -       250.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000016  NAME: PI LOGISTICS          PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260113  CH            28.00  ROAMING
+TOTAL CHARGES:          28.00
+TOTAL CREDITS:           0.00
+NET DUE      :          28.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000017  NAME: RHO RESTAURANTS       PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260114  CH            71.00  PREMIUM SERVICE
+TOTAL CHARGES:          71.00
+TOTAL CREDITS:           0.00
+NET DUE      :          71.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000018  NAME: SIGMA EDUCATION       PLAN: IPL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260115  CR   -       300.00  EARLY PAYMENT
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         300.00
+NET DUE      : -       300.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000019  NAME: TAU ENTERTAINMENT     PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260116  FE            12.00  SETUP FEE
+TOTAL CHARGES:          12.00
+TOTAL CREDITS:           0.00
+NET DUE      :          12.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000020  NAME: UPSILON SPORTS        PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260117  CH            56.00  SUBSCRIPTION
+TOTAL CHARGES:          56.00
+TOTAL CREDITS:           0.00
+NET DUE      :          56.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000021  NAME: PHI AUTOMOTIVE        PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260118  CR   -       180.00  REBATE
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         180.00
+NET DUE      : -       180.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000022  NAME: CHI INSURANCE         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260119  CH            39.00  MESSAGING
+TOTAL CHARGES:          39.00
+TOTAL CREDITS:           0.00
+NET DUE      :          39.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000023  NAME: PSI REAL ESTATE       PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260120  CH            64.00  ACTIVATION
+TOTAL CHARGES:          64.00
+TOTAL CREDITS:           0.00
+NET DUE      :          64.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000024  NAME: OMEGA AGRICULTURE     PLAN: IPL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260121  CR   -       220.00  DISCOUNT
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         220.00
+NET DUE      : -       220.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000025  NAME: ALPHA BEAUTY          PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260122  FE            18.00  RECONNECT FEE
+TOTAL CHARGES:          18.00
+TOTAL CREDITS:           0.00
+NET DUE      :          18.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000026  NAME: BETA CONSTRUCTION     PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260123  CH            42.00  UPGRADE
+TOTAL CHARGES:          42.00
+TOTAL CREDITS:           0.00
+NET DUE      :          42.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000027  NAME: GAMMA TOURISM         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260124  CR   -       120.00  PARTIAL REFUND
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         120.00
+NET DUE      : -       120.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000028  NAME: DELTA FASHION         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260125  CH            87.00  SERVICE CALL
+TOTAL CHARGES:          87.00
+TOTAL CREDITS:           0.00
+NET DUE      :          87.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000029  NAME: EPSILON JEWELRY       PLAN: IPL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260126  CH            25.00  MAINTENANCE
+TOTAL CHARGES:          25.00
+TOTAL CREDITS:           0.00
+NET DUE      :          25.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000030  NAME: ZETA FURNITURE        PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260127  CR   -       350.00  BULK PAYMENT
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         350.00
+NET DUE      : -       350.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000031  NAME: ETA CHEMICALS         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260128  FE            22.00  ADMIN FEE
+TOTAL CHARGES:          22.00
+TOTAL CREDITS:           0.00
+NET DUE      :          22.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000032  NAME: THETA ELECTRONICS     PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260129  CH            58.00  INSTALLATION
+TOTAL CHARGES:          58.00
+TOTAL CREDITS:           0.00
+NET DUE      :          58.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000033  NAME: IOTA TEXTILES         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260130  CR   -       280.00  SEASONAL DISCOUNT
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         280.00
+NET DUE      : -       280.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000034  NAME: KAPPA BEVERAGES       PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260101  CH            73.00  HARDWARE
+TOTAL CHARGES:          73.00
+TOTAL CREDITS:           0.00
+NET DUE      :          73.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000035  NAME: LAMBDA FOOD           PLAN: IPL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260102  CR   -       160.00  LOYALTY REWARD
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         160.00
+NET DUE      : -       160.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000036  NAME: MU PUBLISHING         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260103  CH            36.00  BATTERY
+TOTAL CHARGES:          36.00
+TOTAL CREDITS:           0.00
+NET DUE      :          36.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000037  NAME: NU TELECOMMUNICATION  PLAN:  AP
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260104  CH            91.00  EQUIPMENT
+TOTAL CHARGES:          91.00
+TOTAL CREDITS:           0.00
+NET DUE      :          91.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000038  NAME: XI GAMING             PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260105  CR   -       210.00  REFERRAL CREDIT
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         210.00
+NET DUE      : -       210.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000039  NAME: OMICRON UTILITIES     PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260106  FE            15.00  LATE FEE
+TOTAL CHARGES:          15.00
+TOTAL CREDITS:           0.00
+NET DUE      :          15.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000040  NAME: PI MINERALS           PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260107  CH            48.00  SUPPORT
+TOTAL CHARGES:          48.00
+TOTAL CREDITS:           0.00
+NET DUE      :          48.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000041  NAME: RHO PACKAGING         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260108  CR   -       140.00  EXCHANGE
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         140.00
+NET DUE      : -       140.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000042  NAME: SIGMA METALS          PLAN: IPL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260109  CH            62.00  REPLACEMENT
+TOTAL CHARGES:          62.00
+TOTAL CREDITS:           0.00
+NET DUE      :          62.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000043  NAME: TAU PLASTICS          PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260110  CH            19.00  SHIPPING
+TOTAL CHARGES:          19.00
+TOTAL CREDITS:           0.00
+NET DUE      :          19.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000044  NAME: UPSILON GLASS         PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260111  CR   -       190.00  STORE CREDIT
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         190.00
+NET DUE      : -       190.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000045  NAME: PHI RUBBER            PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260112  FE            25.00  COLLECTION FEE
+TOTAL CHARGES:          25.00
+TOTAL CREDITS:           0.00
+NET DUE      :          25.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000046  NAME: CHI LEATHER           PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260113  CH            84.00  HANDLING
+TOTAL CHARGES:          84.00
+TOTAL CREDITS:           0.00
+NET DUE      :          84.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000047  NAME: PSI PAPER             PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260114  CR   -       230.00  ANNIVERSARY BONUS
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         230.00
+NET DUE      : -       230.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000048  NAME: OMEGA PRINTING        PLAN: IPL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260115  CH            33.00  INVENTORY
+TOTAL CHARGES:          33.00
+TOTAL CREDITS:           0.00
+NET DUE      :          33.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000049  NAME: ALPHA SEEDS           PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260116  CH            77.00  LOGISTICS
+TOTAL CHARGES:          77.00
+TOTAL CREDITS:           0.00
+NET DUE      :          77.00
+
+BILLING STATEMENT RUN   PAGE 0001
+CUSTOMER: 000000050  NAME: BETA FLOWERS          PLAN: APL
+DATE       TYPE   AMOUNT           DESCRIPTION
+----------  ----  ---------------  --------------------
+20260117  CR   -       310.00  NEW YEAR SPECIAL
+TOTAL CHARGES:           0.00
+TOTAL CREDITS:         310.00
+NET DUE      : -       310.00
+
